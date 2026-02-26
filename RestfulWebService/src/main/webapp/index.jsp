@@ -1,0 +1,9 @@
+<html>
+<body>
+<h2><%= "Hello World!" %></h2>
+
+<a href="rest/hello/text">click text</a><br><br>
+<a href="rest/hello/html">click html </a><br><br>
+<a href = "rest/hello/list">list users</a>
+</body>
+</html>
